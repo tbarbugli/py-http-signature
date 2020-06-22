@@ -1,2 +1,2 @@
-pycryptodome==3.6.1
+pycryptodome<4,>=3.6.1
 six
